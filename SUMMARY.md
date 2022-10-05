@@ -5,6 +5,8 @@
 ## 🐍 Python
 
 * [Variable-naming patterns](python/variable-naming-patterns.md)
+* [isdigit(), isnumeric(), isdecimal()](python/isdigit-isnumeric-isdecimal.md)
+* [Craziest rock paper scissor](python/craziest-rock-paper-scissor.md)
 
 ## 🧠 Pattern Matching
 

@@ -1,5 +1,5 @@
 ---
-description: a guide to python naming conventions
+description: Fifth, October 2022
 ---
 
 # Variable-naming patterns

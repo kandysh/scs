@@ -1,8 +1,12 @@
+---
+description: Fifth, October 2022
+---
+
 # Exclusive strings matching
 
 This is a follow-up of the [.](./ "mention")where we might not need the first and second strings.
 
-In that case, we use a `?:` ungroup character, so the regex matches the pattern but never groups it for our result.\
+In that case, we use a `?: non-capturing group` character, so the regex matches the pattern but never groups it for our result.\
 
 
 ### Single line
@@ -14,5 +18,5 @@ In that case, we use a `?:` ungroup character, so the regex matches the pattern 
 ### Multi-line
 
 ```
-(?:first_string)((.*|\n)?)(?:second_string)
+(?:first_string)((.|\n)*?)(?:second_string)
 ```

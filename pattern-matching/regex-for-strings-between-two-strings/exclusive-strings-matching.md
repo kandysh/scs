@@ -17,6 +17,6 @@ In that case, we use a `?: non-capturing group` character, so the regex matches 
 
 ### Multi-line
 
-```
+```regex
 (?:first_string)((.|\n)*?)(?:second_string)
 ```

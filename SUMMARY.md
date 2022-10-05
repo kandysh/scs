@@ -8,4 +8,5 @@
 
 ## Pattern Matching
 
-* [Regex for strings between two strings](pattern-matching/regex-for-strings-between-two-strings.md)
+* [Regex for strings between two strings](pattern-matching/regex-for-strings-between-two-strings/README.md)
+  * [Exclusive strings matching](pattern-matching/regex-for-strings-between-two-strings/exclusive-strings-matching.md)

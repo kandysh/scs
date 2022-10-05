@@ -1,6 +1,6 @@
 # Regex for strings between two strings
 
-We may find a case to match string's between two strings.
+We may find a case to match strings between two strings inclusively.
 
 ### Single-line
 

@@ -6,6 +6,7 @@
 
 * [Variable-naming patterns](python/variable-naming-patterns.md)
 * [isdigit(), isnumeric(), isdecimal()](python/isdigit-isnumeric-isdecimal.md)
+* [Ways to inherit a class](python/ways-to-inherit-a-class.md)
 
 ## 🧠 Pattern Matching
 

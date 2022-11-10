@@ -8,6 +8,7 @@
 * [isdigit(), isnumeric(), isdecimal()](python/isdigit-isnumeric-isdecimal.md)
 * [Ways to inherit a class](python/ways-to-inherit-a-class.md)
 * [super keyword and MRO](python/super-keyword-and-mro.md)
+* [add dunder](python/add-dunder.md)
 
 ## 🧠 Pattern Matching
 

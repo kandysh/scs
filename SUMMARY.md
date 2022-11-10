@@ -7,6 +7,7 @@
 * [Variable-naming patterns](python/variable-naming-patterns.md)
 * [isdigit(), isnumeric(), isdecimal()](python/isdigit-isnumeric-isdecimal.md)
 * [Ways to inherit a class](python/ways-to-inherit-a-class.md)
+* [super keyword and MRO](python/super-keyword-and-mro.md)
 
 ## 🧠 Pattern Matching
 

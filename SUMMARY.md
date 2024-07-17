@@ -22,3 +22,13 @@
 ## 👀 Miscellaneous
 
 * [Books](miscellaneous/books.md)
+
+## 💻 Nvim commands
+
+* [Theming](nvim-commands/theming.md)
+* [Syntax highlighting](nvim-commands/syntax-highlighting.md)
+* [File Tree](nvim-commands/file-tree.md)
+* [Cheat sheet](nvim-commands/cheat-sheet.md)
+* [Splitting screens](nvim-commands/splitting-screens.md)
+* [Tabs](nvim-commands/tabs.md)
+* [Terminal](nvim-commands/terminal.md)

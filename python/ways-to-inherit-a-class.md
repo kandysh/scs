@@ -26,6 +26,8 @@ class ChildC(Base):
 ```
 {% endcode %}
 
-Here the class B and C are equal and that's how super works on it's own, more can be read about that in the python `super()` docs.
+The second and third methods are the same as super passes class name and self implicitly.\
+`super(ChildB,self)=super()`.\
+Now coming to the difference in the two methods, the first one runs the Base classes init method but never follows the MRO, but when we do `super().__init__()` then it follows Class C's MRO.
 
-Now in the se . MRO&#x20;
+The only noticeable difference can be seen in multiple inheritance.
